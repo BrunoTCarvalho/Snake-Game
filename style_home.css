@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--ojGH7_i---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://erhankilic.org/wp-content/uploads/2018/07/snake-game.jpg");
+    background-size:cover;
+}
+
+.container {
+    margin-top: 13%;
+    height: 200px;
+    position: relative;
+}
+
+.btn-game {
+    width: 150px;
+    height: 45px;
+    border-radius: 15px;
+    font-size: 16px;
+    color: #97BF06;
+    background-color: #2C4001;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-game:hover {
+    color: white;
+}

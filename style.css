@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+}
+  
+*{
+    box-sizing: border-box;
+    outline: 0;
+    margin: 0;
+}
+
+
+p {
+    font-size: 3vmin;
+    margin: 2%;
+    color: white;
+}
+
+
+body {
+    height: 100%;
+    background-color:#2C4001;
+    padding: 60px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+}
+
+h2 {
+ color: white;
+}
